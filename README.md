@@ -1,4 +1,4 @@
-## ✨✨✨✨✨✨✨✨ PORTAFOLIO ✨✨✨✨✨✨✨✨
+## ✨✨✨✨✨✨✨✨✨ PORTAFOLIO ✨✨✨✨✨✨✨✨✨
 #### <p>👇👇👇En este portafolio se presenta todos mis conocimientos adquiridos con el lenguaje de programacion python orientado al **data science** mediante el uso de diferentes librerias, que facilitan y agilizan su análisis, partiendo de listas y matrices con numpy hasta el analisis, limpieza y visualizacion de datos con librerias como pandas, plotly y matplotlib 👍👍👍👍</p>
 ## <center><img src="https://blog.facialix.com/wp-content/uploads/2021/03/Python-principiantes-facialix.jpg" width="1000" height="600"></center>
 ## Numpy
