@@ -1,6 +1,6 @@
-## Portafolio
-#### <p>En este portafolio se presenta todos mis conocimientos adquiridos con el lenguaje de programacion python orientado al **data science** mediante el uso de diferentes librerias, que facilitan y agilizan su análisis, partiendo de listas y matrices con numpy hasta el analisis, limpieza y visualizacion de datos con librerias como pandas, plotly y matplotlib</p>
-## <center><img src="https://www.wur.nl/upload_mm/9/2/8/6ef26dab-507d-470d-a020-4a1ba7c76439_DS%20in%20a%20nutshell_a7b83859_670x651.png" width="800" height="700"></center>
+## ✨✨✨✨✨ PORTAFOLIO ✨✨✨✨✨
+#### <p>👇👇👇En este portafolio se presenta todos mis conocimientos adquiridos con el lenguaje de programacion python orientado al **data science** mediante el uso de diferentes librerias, que facilitan y agilizan su análisis, partiendo de listas y matrices con numpy hasta el analisis, limpieza y visualizacion de datos con librerias como pandas, plotly y matplotlib 👍👍👍👍</p>
+## <center><img src="https://blog.facialix.com/wp-content/uploads/2021/03/Python-principiantes-facialix.jpg" width="1000" height="600"></center>
 ## Numpy
 #### <p> Es una librería de Python especializada en el cálculo numérico y el análisis de una gran cantidad de datos, Incorpora una nueva clase de objetos llamados arrays que permite representar colecciones de datos de un mismo tipo en varias dimensiones y funciones muy eficientes para su manipulación. La ventaja de Numpy frente a las listas predefinidas en Python es que el procesamiento de los arrays se realiza mucho más rápido (hasta 50 veces más) que las listas, lo cual la hace ideal para el procesamiento de vectores y matrices de grandes dimensiones.</p>
 ## Pandas
