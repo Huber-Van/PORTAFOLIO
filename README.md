@@ -9,4 +9,6 @@
 #### <p> es una librería de Python especializada en la creación de gráficos en dos dimensiones, permite crear y personalizar los tipos de gráficos como un diagramas de barras, histogramas, diagramas de sectores, diagramas de caja y bigotes, diagramas de violín, diagramas de dispersión o puntos, diagramas de lineas, diagramas de areas, diagramas de contorno y mapas de color.</p>
 ## <center><img src="https://i.pinimg.com/originals/57/ce/db/57cedb78534013287e528bb55e8c617c.png" width="800" height="700"></center>
 ### Más información
-#### https://inlab.fib.upc.edu/es/blog/que-es-un-data-scientist
+[![Facebook](https://img.shields.io/badge/Facebook-Huber_Van_Hancco_Medina-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://web.facebook.com/huber.HM.5)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huber_Van_Hancco_Medina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]( https://www.linkedin.com/in/huber-van-hancco-medina-044188241/)
