@@ -3,4 +3,4 @@
 arrays que permite representar colecciones de datos de un mismo tipo en varias dimensiones y funciones muy eficientes para su manipulación. La ventaja de Numpy
 frente a las listas predefinidas en Python es que el procesamiento de los arrays se realiza mucho más rápido (hasta 50 veces más) que las listas, lo cual la hace
 ideal para el procesamiento de vectores y matrices de grandes dimensiones.</p>
-##  <center><img src="[https://i.pinimg.com/originals/57/ce/db/57cedb78534013287e528bb55e8c617c.png](https://cdn.educba.com/academy/wp-content/uploads/2020/01/introduction-to-numpy.jpg)" width="800" height="500"></center>
+##  <center><img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/introduction-to-numpy.jpg" width="800" height="500"></center>
